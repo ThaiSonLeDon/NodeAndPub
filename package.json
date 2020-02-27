@@ -1,0 +1,24 @@
+{
+  "name": "nodeandpub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myserver.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaiSonLeDon/NodeAndPub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaiSonLeDon/NodeAndPub/issues"
+  },
+  "homepage": "https://github.com/ThaiSonLeDon/NodeAndPub#readme"
+}
